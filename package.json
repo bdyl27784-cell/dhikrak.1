@@ -1,0 +1,9 @@
+{
+  "name": "dhikrak",
+  "version": "1.0.0",
+  "private": true,
+  "description": "ذِكرك — موقع عربي للأذكار اليومية",
+  "scripts": {
+    "build": "echo \"Static files ready for Netlify\""
+  }
+}
